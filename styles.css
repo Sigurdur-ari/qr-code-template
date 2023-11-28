@@ -25,7 +25,7 @@
     src: url(https://fonts.google.com/specimen/Outfit);
 }
 
-    body{
+body{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -45,6 +45,7 @@
 
     padding: 1rem;
     border-radius: 20px;
+    box-shadow: 1rem 2rem 3rem var(--color-dark-blue);
 
     font-family: 'outfit', sans-serif;
 
